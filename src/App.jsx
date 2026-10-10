@@ -1,9 +1,9 @@
 // import Contador from './components/contador/contador'
-import Lista from './components/lista/lista'
+import Limitador from './components/limitador/limitador'
 import './App.css'
 
 function App() {
-  return <Lista />
+  return <Limitador />
 }
 
 export default App
